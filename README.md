@@ -8,4 +8,3 @@ take into account "volatile" information such as timestamps, etc.
 Usage:
 ./naf_diff.pl naf_document1.xml naf_document2.xml
 
-
