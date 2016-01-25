@@ -167,7 +167,6 @@ sub cmp_hash {
   return 1;
 }
 
-
 sub set_nameid {
 
   my ($elem, $celem_ptr) = @_;
